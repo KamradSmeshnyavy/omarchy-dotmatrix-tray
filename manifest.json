@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "kamradsmeshnyavy.tray",
+  "name": "DOT-MATRIX Tray",
+  "version": "1.0.0",
+  "author": "KamradSmeshnyavy",
+  "license": "MIT",
+  "description": "System tray: Omarchy menus, monochrome icons, no drawer by default — the stock Omarchy bar widget in the DOT-MATRIX style",
+  "homepage": "https://github.com/KamradSmeshnyavy/omarchy-dotmatrix-tray",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Tray.qml"
+  },
+  "barWidget": {
+    "displayName": "DOT-MATRIX tray",
+    "description": "System tray in the DOT-MATRIX style: Omarchy menus, monochrome icons, no drawer by default",
+    "category": "Status",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.tray"
+  }
+}
