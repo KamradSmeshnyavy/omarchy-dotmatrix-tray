@@ -9,6 +9,10 @@ Nothing-OS-like dot-matrix type, flat cards with hairline borders and a palette 
 Part of a family of DOT-MATRIX plugins: [bar skins](https://github.com/KamradSmeshnyavy/omarchy-bar-skins), [Customizer](https://github.com/KamradSmeshnyavy/omarchy-customizer) and the
 [other DOT-MATRIX panels](https://github.com/KamradSmeshnyavy?tab=repositories&q=omarchy-dotmatrix).
 
+![Tray on the DOT-MATRIX bar](preview.webp)
+
+<!-- Demo video: repo-videos/omarchy-dotmatrix-tray.mp4 — drag it here when editing this file on GitHub -->
+
 ## Install
 
 ```sh
